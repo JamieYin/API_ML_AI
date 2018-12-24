@@ -5,6 +5,6 @@
 
 ![img](https://github.com/JamieYin/API_ML_AI/blob/master/img/API.jpg)
 
-#### [（PRD.md）](https://github.com/JamieYin/API_ML_AI/blob/master/PRD.md)
-#### [（原型.md）](https://github.com/JamieYin/API_ML_AI/blob/master/%E5%8E%9F%E5%9E%8B.md)
-#### [（API.md）](https://github.com/JamieYin/API_ML_AI/blob/master/API.md)
+#### [#### PRD.md](https://github.com/JamieYin/API_ML_AI/blob/master/PRD.md)
+#### [原型.md](https://github.com/JamieYin/API_ML_AI/blob/master/%E5%8E%9F%E5%9E%8B.md)
+#### [API.md](https://github.com/JamieYin/API_ML_AI/blob/master/API.md)
