@@ -14,6 +14,7 @@
 科大讯飞于2010年率先对外发布语音云，语音合成、语音识别、口语评测、自然语言处理等多项人工智能技术均代表世界最高水平。早在2014年10月，科大讯飞的声纹识别技术就已经加入到了讯飞的开放平台。
 
 据了解，目前语音听写识别率现在已经达到了97%，人脸识别已经到了99%，语音唤醒95%，自然度已经超过普通人，语音云的应用数超过30万，活跃终端数10亿以上。同时科大讯飞还有智能硬件业务部，包括语音能力，集成商、硬件商。据张良春介绍：“科大讯飞的声纹识别技术，可以在未声纹注册情况下，可识别性别和年龄段；合音效果是非常出色，EER小于2%；鉴别范围比较广，可以达到10个人复杂场景下依然可以有效识别；分布式声纹库，离线情况下也可以使用。”
+
 相应资料：[2017生物识别论坛：深耕智能家居市场，科大讯飞发布远场声纹识别技术](https://baijiahao.baidu.com/s?id=1577429457128771788&wfr=spider&for=pc)[「致敬40年」科大讯飞刘庆峰：这件事我们坚持了19年，终于做到了](https://baijiahao.baidu.com/s?id=1620427567388903097&wfr=spider&for=pc)
 
 ### 需求列表与人工智能API:
@@ -26,10 +27,13 @@ Title | User story | importance | Notes | API
 
 ## 原型：
 ### 交互及界面设计：
+##### 声纹识别：
 ![图片](https://github.com/JamieYin/API_ML_AI/blob/master/img/appuse1.jpg)
 
+##### 通关密语：
 ![图片](https://github.com/JamieYin/API_ML_AI/blob/master/img/appuse2.jpg)
 
+##### 留言消息：
 ![图片](https://github.com/JamieYin/API_ML_AI/blob/master/img/appuse3.jpg)
 
 ### 信息设计：
