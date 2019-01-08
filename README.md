@@ -139,8 +139,9 @@ b'[\r\n  {\r\n    "identificationProfileId": "12363eb4-3d67-4c20-8ae0-297024d963
   "Confidence": "Normal",
   "Phrase": "i am going to make him an offer he cannot refuse"
 ```
-示例操作：[Speaker Recognition API（运用的是微软说话人验证API）](https://westus.dev.cognitive.microsoft.com/docs/services/563309b6778daf02acc0a508/operations/5645c3271984551c84ec6797)
+参考操作：[Speaker Recognition API（运用的是微软说话人验证API）](https://westus.dev.cognitive.microsoft.com/docs/services/563309b6778daf02acc0a508/operations/5645c3271984551c84ec6797)
 
+[两个微软的代码调用](https://github.com/JamieYin/API_ML_AI/blob/master/%E5%BE%AE%E8%BD%AF%E4%B8%A4%E4%B8%AAapi%E8%B0%83%E7%94%A8.py)
 **3. 留言消息（语音转文本）**
 
 用户可以按下留言按钮，用户留言的语音即可转化为文本留言，与其用户进行交互。
