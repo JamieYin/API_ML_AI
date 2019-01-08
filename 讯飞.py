@@ -6,9 +6,9 @@
 from aip import AipSpeech
 
 """ 你的 APPID AK SK """
-APP_ID = '15289844'
-API_KEY = 'WSnyOreo4uh89LLmrfSvGNIo'
-SECRET_KEY = '2VUdjOTPk2tZ9qMqPABn3DZIqmGCAc6L'
+APP_ID = '你的APPID'
+API_KEY = '你的APIKEY'
+SECRET_KEY = '你的密钥'
 
 client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
