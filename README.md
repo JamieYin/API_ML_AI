@@ -194,7 +194,7 @@ client.asr(get_file_content(r'C:\Users\1\Music\Apowersoft\Streaming Audio Record
 - [**百度声纹识别API:**](http://ai.baidu.com/docs#/ASR-API/top) 百度AI里暂没有声纹识别的功能，只有语音识别，而语音识别只是将语音转化为文本，与声纹识别差别较大。
 - [**腾讯云声纹识别VPR:**](https://cloud.tencent.com/product/vpr#userDefined16) 在开发的过程中，有相关的页面内容展示，但还没可使用的API调用，还在开发中。
 
-##### **总结**：由此可见，目前讯飞的声纹识别API成熟度相对于两外两者更成熟，运用案例居多，免费使用，性价比高。
+##### **总结**：由此可见，目前微软的声纹识别API成熟度相对于两外两者更成熟，运用案例居多，免费使用，性价比高。
 
 
 ### 使用后风险报告
@@ -220,4 +220,4 @@ client.asr(get_file_content(r'C:\Users\1\Music\Apowersoft\Streaming Audio Record
 虽说声纹识别发展前景不错，但也存在相关的难题。[声纹识别技术：安全指数更高但发展仍面临阻碍](http://tech.163.com/16/1205/08/C7GR92C200097U80.html)
 
 
-### 四、API使用：声纹识别、说话人验证、语音转文本
+### 四、API使用：声纹识别（说话人识别）、说话人验证、语音转文本
